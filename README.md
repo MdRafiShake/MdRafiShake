@@ -1,40 +1,39 @@
-# 💫Hey,
+<div align="center">
 
- I'm **Rafi** 👋
+# 👋 Hey, I'm M.S.I. Rafi
 
-### Full-Stack (MERN) Developer | AI & Computer Vision Enthusiast
+### Full-Stack (MERN) Developer · AI & Computer Vision Enthusiast
 
-I'm a developer and technology enthusiast passionate about turning ideas into practical, production-ready web applications and AI-powered solutions.
-
-🚀 **Founder at Zero One Orbit Corporation**  
-🔬 **Building innovative projects at AXION Labs**
-
-- 💻 Building full-stack web applications using the MERN stack.
-- 🤖 Exploring AI, Machine Learning, Computer Vision, OpenCV, and YOLO.
-- ⚙️ Learning workflow automation with n8n and exploring AI-powered automation.
-- 🚦 Developing an AI-based Smart Traffic Monitoring and Management System.
-- 🧠 Exploring robotics and intelligent systems.
-- 🌱 Continuously learning, experimenting, and building real-world projects.
-- 🤝 Interested in collaboration, open-source projects, and innovative ideas.
-
-### 🎯 Current Focus
-
-Building useful software products that combine **web development, artificial intelligence, and automation**.
-
----
-
-## 🌐 Connect With Me
+I turn ideas into production-ready web applications and AI-powered solutions.
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MdRAfiShake201)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lab.axion/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msirafi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafishake6233@gmail.com)
+
+**🚀 Founder at Zero One Orbit Corporation · 🔬 Building at AXION Labs**
+
+**![Visit AXION Labs](https://img.shields.io/badge/Visit-AXION%20Labs-00C853?style=for-the-badge&color=green)**
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lab.axion)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lab.axion/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lab.axion)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lab.axion223)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafishake6233@gmail.com)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+## ✨ What I'm Up To
+
+- 💻 Building full-stack web applications and AI-powered products.
+- ⚙️ Learning n8n workflow automation and exploring AI/ML.
+- 👁️ Exploring computer vision with OpenCV and YOLO.
+- 🤖 Experimenting with robotics and intelligent systems.
+- 🌱 Always learning, building, and turning ideas into real-world projects.
+
+> **Ideas → Code → Real Impact**
+
+## 🧰 Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,8 +42,8 @@ Building useful software products that combine **web development, artificial int
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -67,46 +66,71 @@ Building useful software products that combine **web development, artificial int
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚦 Smart Traffic Monitoring & Management System
-An AI-powered traffic monitoring project combining computer vision, object tracking, and a real-time monitoring dashboard.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Technologies:** Python, YOLO, OpenCV, React, Node.js, MapLibre
+### 🚦 Smart Traffic Monitoring System
 
-### 🌐 Full-Stack Web Applications
-Building full-stack applications with authentication, REST APIs, database integration, and payment workflows.
+An AI-powered traffic monitoring project combining computer vision, object tracking, and a real-time dashboard.
 
-**Technologies:** MongoDB, Express.js, React, Node.js, Firebase
+**Focus:** AI · Object Detection · Traffic Analytics
+
+**Stack:** Python, YOLO, OpenCV, React, MapLibre
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 Agriculture Innovation Network
+
+Contributed to an agricultural innovation initiative through the ASSET Skills & Innovation Competition 2025, exploring technology-driven solutions for agricultural challenges.
+
+**Focus:** Agricultural Innovation · Technology · Problem Solving
+
+**Program:** ASSET Skills & Innovation Competition 2025
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🤖 AXION Labs
-Exploring AI, automation, robotics, and innovative technology through research and experimental projects.
 
-**Focus:** AI-powered applications, computer vision, and intelligent systems
+Exploring AI, automation, robotics, and emerging technologies through research and experimental projects.
+
+**Focus:** AI-powered applications · Computer Vision · Intelligent Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MdRafiShake&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=MdRafiShake&theme=github-dark-blue&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdRafiShake&show_icons=true&theme=github_dark&hide_border=true" alt="Rafi's GitHub statistics" />
+<img height="165" src="https://streak-stats.demolab.com/?user=MdRafiShake&theme=github-dark-blue&hide_border=true" alt="Rafi's GitHub streak" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdRafiShake&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRafiShake&layout=compact&theme=github_dark&hide_border=true" alt="Rafi's most-used programming languages" />
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=MdRafiShake&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+</div>
 
 ---
 
-## 🤝 Let's Build Something Great!
+<div align="center">
 
-I'm always interested in learning new technologies, collaborating with developers, and building solutions that make a difference.
+### 🌱 Small Steps. Big Dreams.
 
-**Have an idea or an interesting project? Let's connect!** 🚀
+I'm open to collaboration, open-source contributions, and innovative ideas.
+
+**Thanks for visiting my profile — let's build something meaningful!** 💙
+
+</div>
